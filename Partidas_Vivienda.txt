@@ -1,3 +1,8 @@
 Despeje de terreno
 Escarpe
-trazado
+Trazado
+Excavaciones
+Emplantillado
+Instalación de armadura de fundaciones
+Instalación de armadura de pilares muros de primer piso
+Preparación para hormigonar
